@@ -1,2 +1,2 @@
 ## Hi there 👋
-I'm a Data Scientist and Data Engineer enthusiast with a background in Geophysical Engineering. Passionate about data science, programming in Python, and building impactful machine learning models.
+I'm a Data Scientist and Data Engineer enthusiast with a background in Geophysical Engineering. Passionate about data science and programming in Python.
